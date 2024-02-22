@@ -1,0 +1,12 @@
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\bin\Debug\net6.0\RealEstateApp.Core.deps.json
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\bin\Debug\net6.0\RealEstateApp.Core.dll
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\bin\Debug\net6.0\RealEstateApp.Core.pdb
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.AssemblyInfo.cs
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.sourcelink.json
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.dll
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\refint\RealEstateApp.Core.dll
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.pdb
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\ref\RealEstateApp.Core.dll
