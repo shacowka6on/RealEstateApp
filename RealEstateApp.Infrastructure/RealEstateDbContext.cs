@@ -1,4 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using RealEstateApp.Infrastructure.Data.Models;
+using Property = RealEstateApp.Infrastructure.Data.Models.Property;
 
 namespace RealEstateApp.Infrastructure
 {
@@ -12,12 +14,12 @@ namespace RealEstateApp.Infrastructure
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
 
-
             base.OnModelCreating(modelBuilder);
         }
-        public DbSet<Client> Clients { get; set; }
-        public DbSet<Owner> Owners { get; set; }
-        public DbSet<Property> Properties { get; set; }
-        public DbSet<Review> Reviews { get; set; }
+        public DbSet<Address> Addresses { get; set; } = null!;
+        public DbSet<Post> Posts { get; set; } = null!;
+        public DbSet<Property> Properties { get; set; } = null!;
+        public DbSet<Review> Reviews { get; set; } = null!;
+        public DbSet<User> Users { get; set; } = null!;
     }
 }

@@ -13,6 +13,12 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.25" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.25" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.25" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RealEstateApp.Core\RealEstateApp.Core.csproj" />
+    <ProjectReference Include="..\RealEstateApp.Infrastructure\RealEstateApp.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

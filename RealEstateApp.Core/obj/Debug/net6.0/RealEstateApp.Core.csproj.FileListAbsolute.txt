@@ -10,3 +10,7 @@ C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\Rea
 C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\refint\RealEstateApp.Core.dll
 C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.pdb
 C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\ref\RealEstateApp.Core.dll
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\bin\Debug\net6.0\RealEstateApp.Infrastructure.dll
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\bin\Debug\net6.0\RealEstateApp.Infrastructure.pdb
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\RealEstateApp\RealEstateApp.Core\obj\Debug\net6.0\RealEstateApp.Core.csproj.CopyComplete
